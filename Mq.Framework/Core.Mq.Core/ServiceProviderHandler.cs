@@ -6,5 +6,6 @@ namespace Core.Mq.Core
 {
     public class ServiceProviderHandler
     {
+
     }
 }
